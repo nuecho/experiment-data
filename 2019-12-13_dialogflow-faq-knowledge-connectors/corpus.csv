@@ -1,0 +1,1020 @@
+ID,Question,Exact match,Train / Test set
+0001,What is the limit regarding liquids in carry-on bags?,WhatCanIBring,train
+0002,Are there any exceptions?,,train
+0003,Will I be allowed to carry liquid medicins?,WhatCanIBring,train
+0004,Does the same rule apply for perfumes and non-consumable products?,,train
+0005,"If I had a bottle of frozen iced tea in my carry-on bag, is it still considered liquid?... :)",WhatCanIBring,train
+0006,Where is the closest drop-off location to gate 23?,,train
+0007,Is there a drop-off and pick-up service provided by the airport?,,test
+0008,Is there a dedicated parking lot for shared car services such as Car2Go?,,train
+0009,Where can I park for a short time while waiting to pick up a passenger?,CellParc,test
+0010,What services do you provide to support people with reduced mobility?,,test
+0011,What is the process of reserving a parking spot for 2 weeks?,,test
+0012,What methods of payments are available for parking tickets?,,test
+0013,How many parking lots are available in the airport?,,train
+0014,How can I reserve a wheelchair to have it ready in the parking lot?,,train
+0015,Do you have valet parking services?,,train
+0016,What entertainment services are provided at the airport?,,train
+0017,Do you have a children play area?,,test
+0018,Do you have a pet hotel?,,test
+0019,Where can I get access to a computer and a printer?,,test
+0020,Is there a gym at the airport?,,train
+0021,What should I know when travelling with a pet?,,train
+0022,Do you have a clinic at the airport?,,train
+0023,What is the legal quantity limit on buying alcoholic beverages?,,test
+0024,I had an issue and I would like to speak to customer support,InformationDesk,train
+0025,When is flight AF345 expected to arrive?,,train
+0026,What is the authorized quantity of duty-free items to which I am entitled?,,train
+0027,Are liquids purchased in an international zone allowed on the plane?,WhatCanIBring,test
+0028,What items can I buy tax-free from Canada?,,test
+0029,I ordered online fre duty items. Where can I collect my purchases at the airport?,DutyFree,train
+0030,My flight boarding gate is 55. Where are the duty free shops closest to my boarding gate?,DutyFree,train
+0031,How do I find out requirements for shipping an animal on a flight?,,test
+0032,Where are the suitable locations for my boarding?,,test
+0033,"I travel with my pet, where are the specific areas that allow animals to relieve themselves?",ReliefArea,train
+0034,I need a personal helper to help me at the boarding gate. Who should I contact?,,test
+0035,Where could I find a wheelchair in the airport terminal?,,train
+0036,Can I pass safety checks with my baby's car seat for Use in the Aircraft?,ScreeningProceduresWithChildren,train
+0037,"I have liquid food from my baby, can I pass the security checks with these?",SecurityScreeningWithChildren,test
+0038,How can I know how long it will take for me to finalize my Airport Security Check?,,test
+0039,What are the prohibited items in the cabin?,WhatCanIBring,train
+0040,I have a bottle of liquid in my cabin baggage that may have exceeded 100ml. Is there a point at the airport where I can pick it up on my return if I can not bring it on the plane?,,test
+0041,Where can I find more information about airline clubs and lounges at Airport?,,train
+0042,Is there a possibility to take a guided tour of the airport?,,train
+0043,Can I take a shower at the airport?,,test
+0044,I am tired and I have a little time before boarding. Where can I find massage seats in the international boarding area?,MassageChairs,train
+0045,I travel with children. What entertainment is available at the airport for children while waiting for our flight?,,train
+0046,I lost my luggage in the airport. what should I do?,ClaimLostItemAirport,test
+0047,I have a chronic illness and I need medical help. Which service should I contact?,,train
+0048,I am going on a business trip for two weeks. Are there preferential rates for long-term parking for business people?,,test
+0049,Are the shuttles available 24h?,,train
+0050,What are the bus fares from the airport to downtown Montreal?,BusPrice,train
+0051,Can I walk from the airport?,,train
+0052,Is it possible to make a reservation for a taxi?,,test
+0053,Is there a metro station near the airport?,,test
+0054,How much is the parking for two weeks?,,test
+0055,Is there a place for bicycles in the parking lot?,BikeRackLocation,test
+0056,Is there surveillance in the parking lot?,,train
+0057,I can't find my car. Where can I receive help?,ParkingAssistance,train
+0058,How can I pay my parking ticket?,,train
+0059,What do I do if I missed my flight?,,train
+0060,How much time in advance should I arrive at the airport for a domestic flight?,,train
+0061,Can I leave the airport between my connecting fligths?,,train
+0062,Can my cat leave his cage?,ArePetsAllowed,test
+0063,How many luggages can I bring in an international flight?,,train
+0064,I found a wallet. Can I drop it somewhere?,,train
+0065,"I lost my passport, what should I do?",ClaimLostItemAirport,train
+0066,"I forgot something in the plane, how can I get it back?",ClaimLostItemFlight,train
+0067,Is it possible to deliver my lost luggage at my home?,,train
+0068,I left my wallet in the restaurant and I already passed security. What can I do?,ClaimLostItemAirport,train
+0069,Do I need a visa to travel to China?,,train
+0070,Do I need to buy a ticket for my infant child?,,test
+0071,Is there a doctor at the airport?,MedicalEmergency,train
+0072,Do I have to eat in the restaurant or can I do that somewhere else?,,train
+0073,Are there hotels near the airport?,,test
+0074,Can I bring milk with me on the plane for the baby?,SecurityScreeningWithChildren,train
+0075,Are we allowed to bring cough medication on the plane?,WhatCanIBring,train
+0076,Am how allowed to bring any beverage or non-solid food in my carry-on bag?,WhatCanIBring,train
+0077,What is the quantity limit of liquid that I can take on the plane with me?,WhatCanIBring,test
+0078,Which liquids are prohibited on the plane?,WhatCanIBring,test
+0079,Are there any bars close to the airport?,,train
+0080,What are the bars available in the airport?,,test
+0081,Are there any resto bars in the airport?,,train
+0082,Where can I go for a glass of wine?,,train
+0083,Is there a Priority Pass VIP lounge?,,test
+0084,What are the main attractions near the airport?,,train
+0085,Are there any rooms for rent near the airport?,,train
+0086,Where can I take a nap between my 2 flights?,,train
+0087,Is there a specific area for reading?,ReadingArea,train
+0088,Is there a play area for my kids?,,test
+0089,How much does the average taxi ride cost from downtown Montreal?,TaxisLimousinesPrices,test
+0090,Are there any shuttles going to downtown montreal?,ExpressBus,train
+0091,How often is the shuttle leaving to Montreal?,ExpressBus,train
+0092,How long is the car ride from the airport to downtown Montreal?,,test
+0093,Which bus goes to the airport?,,test
+0094,Can I leave the airport between my flights correspondance?,,train
+0095,How early do I need to check in for an international flight?,,test
+0096,How can I travel with my dog?,,train
+0097,Are animals allowed in the airport?,ArePetsAllowed,train
+0098,Can I carry marijuana with me if I'm travelling within the country?,WhatCanIBring,train
+0099,What's the best way to get to the airport from downtown?,ExpressBus,test
+0100,Is there a shuttle to the airport from downtown?,ExpressBus,test
+0101,What's the walking distance between the bus stop and the airport?,,train
+0102,What are shuttles are available?,,test
+0103,Are there uber at the airport?,UberPickUp,test
+0104,Can I bring a sandwich on my flight?,WhatCanIBring,test
+0105,What are the restrictions on liquids?,WhatCanIBring,train
+0106,Can I bring my lipstick in my hand-luggage?,WhatCanIBring,train
+0107,Do you give resealable bags to store liquid items?,,train
+0108,Can I bring pepper spray?,WhatCanIBring,train
+0109,Can I watch Netflix on the airport wifi?,InternetAccess,test
+0110,Can I watch TV at the airport?,,test
+0111,"I have a layover at your airport, is there a place I could take a nap between flights?",,train
+0112,Do you a have a hotel booking service?,,test
+0113,What time does the airport open?,,train
+0114,Can I get a list of the duty-free shops?,DutyFree,train
+0115,Can I buy something at the duty-free shops if I'm not traveling?,,test
+0116,"My flight is very early in the morning, will the duty-free shop be open?",,test
+0117,Is there a hairdresser?,,test
+0118,Is there a spa?,Spa,test
+0119,Do you offer airport tours?,,train
+0120,What's the best place to take a picture of the planes taking off?,,train
+0121,Where can I find the pet squad?,PetSquad,train
+0122,What's the security procedure?,,train
+0123,"If my medication go through the scan, will it alter its efficiency?",,train
+0124,Do we need to have the stroller wrapped before checking them ?,,train
+0125,Are strollers included in the count of luggages allowed?,,train
+0126,Is there a nursing zone in the aiport?,,train
+0127,Is there a playroom in the airport?,,train
+0128,Can I bring my stroller to the gate?,ScreeningProceduresWithChildren,test
+0129,What determines if a merchandize is considered a liquid or a solid ?,,train
+0130,What is the maximum amount of liquid permitted per container?,WhatCanIBring,train
+0131,Is there a maximum amount of liquid allowed per passenger?,WhatCanIBring,test
+0132,Can I have a computer backpack in addition to a hand-held bag ?,,train
+0133,What is the maximum weight of carry-on items?,,test
+0134,Where can I withdraw money in the airport?,Atm,test
+0135,Is there a free wifi in the airport?,InternetAccess,test
+0136,Is there a specific Uber pick up point at the arrivals level?,UberPickUp,train
+0137,How can I request assistance for a disabled traveler?,,test
+0138,what is the cost of the long term parking ?,,train
+0139,Where can I file a claim for damages during a flight ?,LuggageProblem,train
+0140,"I forgot my tablet in the plane, what should I do?",ClaimLostItemFlight,train
+0141,"I found a phone in the seat pocket during my flight, How can I return it?",,train
+0142,"My checked luggage never arrived on the belt, what should I do ?",LuggageProblem,train
+0143,I have an internationa layerover and I forgot to collect my checked luggage for my connection flight. How can I retrieve it ?,ClaimLostItemAirport,train
+0144,"I was injured during my flight because of a flight attendant negligence, where can I file a complain?",,train
+0145,How can I find the schedule of buses going from Downtown to the airport,ExpressBus,train
+0146,"My flight arrived more than 2 hours late, am I entitled to any compensation.",,train
+0147,Is the airport entirely accessible for a disabled person?,,train
+0148,"My minor child needs to travel alone, how can he be taken care of ?",,test
+0149,Is there reserved parking spots for families?,,train
+0150,What can I do if I lose my parking ticket?,LostParkingTicket,test
+0151,Are the parking lots under surveillance?,,train
+0152,Do the airport provide a service when my car is stuck in the snow that has been pushed around it?,,test
+0153,What is the process to contest a fee?,,test
+0154,"When picking up a passenger is it possible to know how long the exit process (customs, luggages, etc.) for the filght in question will take?",,train
+0155,Where is the free waiting area?,CellParc,test
+0156,How long can I wait in the waiting area?,CellParc,test
+0157,I do not speak the language is there any language assitance available and if so how do I get this assistance?,,test
+0158,"My first flight has been delayed and I might be late for my connection, what wil be happening?",,test
+0159,Is there free wifi?,InternetAccess,test
+0160,Is there showers available for travelers?,,test
+0161,Where can I find SIM'S card provider in the airport?,BuySimCard,test
+0162,Is there reserved parking spots in the nearest parking lot?,ParkingLotAvailability,train
+0163,Are the shuffles equiped to accept passengers in wheelchair?,,train
+0164,How do I request assistance in advance?,,train
+0165,Is there a designated area to pick up or drop off a disabled passenger?,DepartureDropOffRules,train
+0166,Is there adapted transport (taxi) service available?,WhereToFindTaxisLimousines,train
+0167,How long does it take to pass security at the moment?,,test
+0168,Where can I find a map (list and location of services) of the airport?,,train
+0169,Is there an automated process such as a edeclaration available?,,train
+0170,How can I apply to the frequent travellers program?,,test
+0171,Where is the Air Canada lounge?,AirCanadaLounge,test
+0172,Is there a VIP lounge in the international flight section?,,test
+0173,I'd like a list of VIP lounge and their location,,test
+0174,Do they serve full meals in the VIP lounge?,,train
+0175,Are drinks free in the Air Canada lounge?,,train
+0176,May I bring my epipen on board?,WhatCanIBring,train
+0177,Are there any restrictions on how many inhalators I can bring on board?,WhatCanIBring,train
+0178,I am diabetic and need to carry needles and insulin; are there restrictions?,WhatCanIBring,test
+0179,Can I bring an oxygen tank on board?,WhatCanIBring,train
+0180,I take a medicine in liquid form; will that be a problem at security?,WhatCanIBring,train
+0181,Can I carry bottled milk on board?,SecurityScreeningWithChildren,train
+0182,Do I need to check the stroller or can I bring it in the cabin?,,train
+0183,Is there an area where I can breast feed quietly?,,train
+0184,Are all the restrooms equipped with baby changing stations?,,test
+0185,Can I change seats to be in the front row?,,train
+0186,What's the daily parking fee?,,test
+0187,I made a reservation for a parking spot but I don't know where it's located,HowToFindParkingLot,test
+0188,How long can I leave the car in the long term parking?,,test
+0189,I lost my parking ticket. What can I do?,LostParkingTicket,train
+0190,Where are the parking payment stations located?,,train
+0191,Is there a pharmacy in the airport?,,test
+0192,What are the restaurants in terminal B in the secured zone?,,test
+0193,Where can I take an Uber upon arrival?,UberPickUp,test
+0194,Can I pass security without a boarding pass to accompany my sick father to the gate?,,train
+0195,Where are the hotel shuttles located?,HotelShuttle,test
+0196,Who do I contact for special assistance?,,train
+0197,Where can I get a wheelchair?,,test
+0198,Can I bring my service dog with me?,,test
+0199,I have trouble walking and need assistance. Who should I contact?,,train
+0200,My grandmother needs help to get to her gate. Where can she request special assistance?,,test
+0201,What are the areas where I can smoke?,SmokeAtAirport,train
+0202,Can I bring cannabis at the airport?,,train
+0203,Can I smoke cannabis at the airport?,ConsumeCannabisAtAirport,train
+0204,What happens if I have a medical emergency and need assistance?,MedicalEmergency,train
+0205,Is weed allowed at the airport?,,train
+0206,How can I get access to a VIP lounge?,,train
+0207,Where is the Air Canada lounge?,AirCanadaLounge,test
+0208,How much does it cost to get access to a VIP lounge?,,train
+0209,What are the services offered in the Air Canada lounge?,AirCanadaLounge,test
+0210,Can I bring guests with me in the VIP lounges?,,train
+0211,What are the restaurants that can accomodate clients with food allergies?,,train
+0212,Where can I get breakfast before my flight?,,train
+0213,Are there any Italian restaurants?,,train
+0214,What are the restaurants that serve alcohol?,,test
+0215,What are the restaurants that opened recently?,,test
+0216,How early do I have to arrive at the airport?,,train
+0217,How much does parking cost?,,train
+0218,What is the bus line that gets to the airport?,RegularBus,test
+0219,What hotels are close to the airport?,,test
+0220,Where is the taxi area?,WhereToFindTaxisLimousines,test
+0221,Is breast-feeding allowed in the airport's public spaces?,,train
+0222,Can I have a bottle of baby milk of more than 100ml in my carry-on?,ScreeningProceduresWithChildren,train
+0223,Is there a changing station in planes?,,test
+0224,Are there microwaves accessible in the waiting zone of the airport?,,train
+0225,Does a baby stroller have to be a registered baggage?,,train
+0226,Is there a vegan restaurant in the pre-boarding zone?,,test
+0227,Are there taxes applicable on restaurant food in hte international zone?,,train
+0228,Can we bring food bought in the international zone inside the plane?,WhatCanIBring,test
+0229,What are the restaurants?,,test
+0230,Is there a cheap restaurant in the waiting zone?,,train
+0231,"I forgot my cellphone in the flight I just left, can I get it back somehow?",ClaimLostItemFlight,train
+0232,"I think I lost a vest here when I left, do you have a lost and found counter where I can look?",ClaimLostItemAirport,train
+0233,"I forgot my passport and plane ticket in the washrooms, and it's not there, where could it be?",ClaimLostItemAirport,test
+0234,"I took someone else's luggage yesterday, have you found mine?",LuggageProblem,train
+0235,"I forgot something in the parking shuttle, how can I get it back?",ClaimLostItemAirport,test
+0236,Is there a cellphone waiting lot?,CellParc,test
+0237,Do I pick-up a passenger at the same place I went to drop him off?,PickUpRules,train
+0238,Are there different pick up spots depending on the origin of the flight?,,train
+0239,Where do I drop off a passenger for a local flight?,DepartureDropOffRules,train
+0240,Is there somewhere free I can park if the person I pick up calls me when they're ready?,CellParc,train
+0241,"If my flight was delayed, do I have to stay in the international zone?",,train
+0242,Can I see the next flights for a chosen destination somewhere?,,test
+0243,"If I trigger the metal detector, do I have to go through a physical search?",,train
+0244,Is there a shuttle bus from downtown directly to the airport?,ExpressBus,test
+0245,Do you open check-in luggage?,,test
+0246,Where do I need to put my stroller on the plane?,,train
+0247,Is there a specific place where to dispose of dirty diapers?,,train
+0248,At what age does it require a children to have its own seat in the airplane?,,train
+0249,Is there a breast feeding room in the airport?,,train
+0250,Where can I buy diapers?,,test
+0251,Is there a list of forbidden medecines?,WhatCanIBring,train
+0252,Are antibiotics allowed on a plane?,WhatCanIBring,train
+0253,Where can I dispose of a used needle?,,train
+0254,Can I travel with my medecine in my cabin luggage?,WhatCanIBring,test
+0255,Is there a pharmacy in the airport?,,test
+0256,Where can I park my car while waiting for a friend to arrive?,CellParc,train
+0257,Where do I pay my parking ticket?,,train
+0258,Where is located the drop-off area?,,test
+0259,How long can I stay in the drop off area?,StayTimeDropOffZone,test
+0260,Are there any wheelchairs available?,,train
+0261,Is there a vegan restaurant in the airport?,,train
+0262,Is there a chinese food restaurant?,,test
+0263,Where is the food court located?,,test
+0264,Is there a Subway restaurant at the airport?,,train
+0265,What is the list of child friendly restaurants?,,train
+0266,How do I get a ride downtown from the airport?,,test
+0267,Is flight AT567 on time?,,test
+0268,Is there a cellphone charging station somewhere in the airport?,,train
+0269,Is there an application for the airport that I can install on my phone?,,test
+0270,Is it true that canine units give cards?,,train
+0271,do i need to bring my prescription?,WhatCanIBring,test
+0272,can I bring any kind of medecin in my carry-on luggage?,WhatCanIBring,train
+0273,where can i inject myself with insulin before the plane takes off?,,train
+0274,can i carry my oxygen tank with me on the plane?,,train
+0275,can i borrow or rent a wheelchair?,,test
+0276,where can i bring a lost wallet?,,test
+0277,what should i do if my luggages were not on the baggage carousel?,,train
+0278,where shuold i go if i've lost my plane tickets in the airport?,ClaimLostItemAirport,train
+0279,is there a lost&found desk?,,train
+0280,i've lost my cellphone on the plane. who should I contact?,ClaimLostItemFlight,test
+0281,how can i report someone smoking?,,train
+0282,A set of luggages has been unattended for more than two hours. How can I notify the security?,,test
+0283,how can we get the paramedics for an emergency?,MedicalEmergency,train
+0284,A phone battery has caught fire. Who should I contact?,,test
+0285,Someone is unconscious. How can we get medical assistance?,MedicalEmergency,test
+0286,how long does an airplane wais for missing passengers?,,train
+0287,can i have priority boarding?,,test
+0288,how long is the wait for security?,,train
+0289,what the minimum time i need to take a connection of two flights in Canada?,,train
+0290,how much time before my flight should i arrive at the airpoirt?,,test
+0291,what are the parking options?,,test
+0292,is there some food I can carry through the security gate?,,train
+0293,what is the best place to watch airplane take-offs?,,train
+0294,is there any vegan restaurant?,,train
+0295,where can i find a map of the airport terminals?,,train
+0296,Can I bring cannabis products to other Canadian provinces?,TravelWithCannabis,test
+0297,Is there a list of items I can't bring with me to the US?,,train
+0298,Can I pet the sniffing dogs?,,test
+0299,Where is the airport patrol both situated?,,test
+0300,Are there designated smoking areas?,SmokeAtAirport,train
+0301,Where are the elevator situated?,,train
+0302,What are the policies regarding service dogs?,,test
+0303,Are all bathroom wheelchair accessible?,,test
+0304,Are there wheelchair availlable for old people?,,train
+0305,Are there usb plugs to charge electronic devices in the waiting areas?,,test
+0306,Is there a plan of the available shops?,,train
+0307,What cn I do while waiting for my flight?,,test
+0308,Can I use apple pay to pay my parking fees?,,train
+0309,Is it possible to serverve a parking spot?,ReserveParkingOnline,test
+0310,What are the parking fees?,,test
+0311,Is there a free parking for pickups. ((no notthe trucks)),CellParc,train
+0312,How many places are left in the parking?,,train
+0313,Where can I find a map of the airport?,,test
+0314,Where are situated my airline luaggage check-in kiosks?,,test
+0315,What is the current customs waiting time?,,train
+0316,Is it possible to take fruits and vegetable through security?,WhatCanIBring,train
+0317,What is the maximum amount of liquid allowed through security?,WhatCanIBring,train
+0318,What can you take through security?,WhatCanIBring,test
+0319,What foods are accepted at the US customs?,,train
+0320,What items are forbidden in a carry-on bag?,WhatCanIBring,train
+0321,Is a guide dog accepted in an airplane?,,test
+0322,Can I take my wheelchair with me on an airplane?,,train
+0323,Are there any restrictions for disabled travelers?,,test
+0324,What happens if an obese passenger needs to take two seats?,,train
+0325,Does the airport provide assistance for disabled passengers?,,train
+0326,Is there an area of the airport where I can work and plug in my laptop?,,test
+0327,Is there a playing area for children in the airport?,,train
+0328,Is it possible to get a massage at the airport?,,train
+0329,What kind of entertainment is available at the airport?,,train
+0330,Where can I have a drink and watch television?,,train
+0331,"If I have a connection, do I need to go through security?",,train
+0332,"If I have a canada-us connection, what happens to my checked-in luggages?",ConnectDomesticToUs,test
+0333,How can I get noticed of changes related to my flight?,,train
+0334,Will I get an alert if my flight is delayed or cancelled?,StayUpToDateToFlights,train
+0335,What is the maximum allowed weight for check-in luggages?,,train
+0336,How secure is the parking at the airport?,,test
+0337,Can I take a Uber at the airport?,UberPickUp,train
+0338,Who gets VIP privileges at security?,,train
+0339,Do skis and boots count as a single luggage?,,train
+0340,Is there assistance available for children traveling alone?,,train
+0341,Can I bring a water bottle on a flight?,WhatCanIBring,test
+0342,What's the maximum weight that I can carry in my baggage?,,train
+0343,Are laptops allowed on flights?,WhatCanIBring,train
+0344,What is allowed in my onboard personal luggage?,WhatCanIBring,train
+0345,Where can I find lost and found objects?,,train
+0346,Do the airport shops sell flight-restricted items?,,train
+0347,Is there McDonald's in the airport?,,test
+0348,Where is the help desk?,InformationDesk,test
+0349,Is there a postal service within the airport?,,test
+0350,Is there a service for foreign SIM cards?,,train
+0351,Am I allowed to bring pharmaceutical drugs on my flight such as Ibuprofen?,WhatCanIBring,train
+0352,Is flight staff trained to help with insulin shots?,,train
+0353,Do I need to fill forms stating my medical conditions before a flight?,,test
+0354,Can I carry marijuana within the airport?,,train
+0355,Do I need to declare a pacemaker before going through the metal detectors?,WhatCanIBring,train
+0356,Are there any delays for my flight?,,test
+0357,How long before my scheduled flight do I need to show up at the airport?,,test
+0358,What do I need to declare when entering the country?,ScreeningProceduresUponArrival,test
+0359,What are the steps to check into my flight?,,train
+0360,Do I need my passport for flights within Canada?,,test
+0361,What step takes the most time before boarding my flight?,,test
+0362,Is there free wifi in the airport?,InternetAccess,train
+0363,What parkings are available and at what cost?,,train
+0364,How much time before my flight can I cancel my ticket?,,train
+0365,Is there a place to store a bicycle?,BikeRackLocation,test
+0366,Can I bring in my toothpaste?,WhatCanIBring,train
+0367,Can I get through a scanner with my metalic implants?,WhatCanIBring,train
+0368,Do I have to remove my shoes?,,train
+0369,Where do I pay custom fees for imported goods?,,test
+0370,How many bottles of wine can I bring back from France?,,train
+0371,Where's the closest Second Cup?,,train
+0372,Are there any restaurants beyond security?,,test
+0373,Where can I get a poutine?,,train
+0374,Can I bring my own lunch?,WhatCanIBring,test
+0375,Can I pay in USD?,,test
+0376,I've missed my connection. What happens to my luggage?,,train
+0377,My flight was cancelled but didn't received a SMS notification!,,test
+0378,What kind of pet can I travel with?,,train
+0379,Do I have to go through custom for an international connection?,ConnectInternationalToInternational,test
+0380,Any place to sleep at the airport while waiting for my connection?,,train
+0381,Where's Uber pickup location?,UberPickUp,train
+0382,"I need to pickup my dad, where should I park my car?",CellParc,train
+0383,"I have a van and hauling a trailer, where should I drop off?",DepartureDropOffRules,test
+0384,Can I get assistance with my wheelchair?,,train
+0385,How much time can I wait in the pickup location?,PickUpRules,train
+0386,What are those dogs walking around?,,test
+0387,I need to park my car for a few weeks. What are my options?,ParkingLotAvailability,train
+0388,Any train to downtown?,,train
+0389,Is free Wi-Fi available?,InternetAccess,test
+0390,Where is the nearest restroom?,,test
+0391,Am I allowed to travel by plane if I'm eight months pregnant?,,train
+0392,Are there places in the airport where smoking is allowed during the time spent in-between flights?,SmokeAtAirport,test
+0393,Is it allowed to bring cannabis to the airport?,,train
+0394,I suffer from panic attacks during flights. Are there restriction on medications allowed on an airplane?,WhatCanIBring,train
+0395,I'm just out of prison from Russia. May I come back by plane?,,test
+0396,Is there a drugstore abvailable once I pass the security check?,,train
+0397,What are the meals options available at the airport?,,test
+0398,Are all restaurants open 24/7?,,train
+0399,May I buy food and bring it on the airplane?,WhatCanIBring,train
+0400,Are there any sales in the duty-free boutiques?,,train
+0401,Do I need my passport in order to travel to the USA?,,train
+0402,How long in advance should I plan to present myself at the airport?,,test
+0403,May I carry over cannabis bought overseas?,TravelWithCannabis,test
+0404,Do US customs agents speak French?,,train
+0405,Are we require to remove our shoes as part of the security check?,WhatCanIBring,train
+0406,Is it possible to breastfeed on the plane?,,train
+0407,Are strollers allowed within the cabin?,ScreeningProceduresWithChildren,test
+0408,I'm traveling with a six month baby. Do I need to buy an additional seat?,,test
+0409,I'm travelling with youg kids. How do I make sure we will be seated together?,,test
+0410,Do you have diapers onboard?,,train
+0411,How much does it cost to park my car during my travel.,,train
+0412,Is it possible to reach the airport by public transit?,,test
+0413,Do you offer lockers in order to store boots and coats for the duration of the travel?,Lockers,test
+0414,Are there accomodation on-site in case I miss a connection flight?,,train
+0415,How old is the airport?,,train
+0416,Can I bring my medical marijuana with me on my flight?,WhatCanIBring,test
+0417,What are the restrictions on travelling with medical devices?,WhatCanIBring,test
+0418,Do I need to show my doctor's prescription to be allowed to travel with my inhalator?,WhatCanIBring,train
+0419,I forgot to bring my prescription with me. Is there a drugstore in the airport where I could have it filled?,,train
+0420,Do I need to remove my leg prosthesis to pass through airport security?,WhatCanIBring,train
+0421,How can I reach the airport by public transit?,,train
+0422,Is there a shuttle between the airport and Marriott Residence Inn?,,test
+0423,How much does the airport parking cost?,,train
+0424,How do I make a reservation for a limousine to leave the airport?,,train
+0425,Where is the taxi area in the airport?,WhereToFindTaxisLimousines,test
+0426,What lounges are present in the airport?,,test
+0427,Can I pay to enter a lounge once if I'm not a member?,,test
+0428,Is there a Star Alliance lounge in the airport?,AirCanadaLounge,test
+0429,How can I get a lounge membership?,,test
+0430,Where is the Air France lounge?,AirFranceKlmLounge,test
+0431,Why are there dogs in the airport?,,test
+0432,What should I do if I have an anaphylactic shock in the airport?,,train
+0433,Is there a smoking room in the airport?,SmokeAtAirport,train
+0434,What should I do if I see a passenger acting suspiciously?,,test
+0435,Is it permitted to pet the dogs in the canine unit?,,train
+0436,Can I have my luggage sent to the airport in advance?,,test
+0437,Are there any showers in the airport?,,train
+0438,What activities can I do while waiting for my flight?,,train
+0439,What are my rights if my flight is overbooked?,,train
+0440,Is there wifi in the airport?,InternetAccess,train
+1000,Can I buy duty free if I have a connecting flight Canada?,,train
+1001,What items are not allowed on a plane in hand luggage?,WhatCanIBring,test
+1002,What is not allowed in checked baggage for international flights?,WhatCanIBring,train
+1003,Do I have to take my shoes off at airport security 2018 Canada?,WhatCanIBring,test
+1004,Where to put your money when going through airport security?,,train
+1005,What do you have to take out of your bag at airport security?,WhatCanIBring,train
+1006,airport pick up and drop off service,,test
+1007,short term parking montreal airport,CellParc,train
+1008,econo lodge montreal airport parking,,train
+1009,montreal airport parking deals,ParkingDiscounts,test
+1010,free parking near montreal airport,CellParc,test
+1011,airport parking rates,,train
+1012,in flight entertainment air canada,,test
+1013,air canada rouge inflight entertainment app for pc,,train
+1014,air canada rouge entertainment app for macbook,,train
+1015,how to travel with a dog on a plane,,train
+1016,can i buy a seat for my dog on an airplane,,test
+1017,air canada pet policy,,test
+1018,how does duty free work canada,,train
+1019,list of duty free items from usa to canada,,train
+1020,canada customs duty rates,,test
+1021,what do you have to declare at customs canada,ScreeningProceduresUponArrival,train
+1022,how much alcohol can you bring into canada per person,,test
+1023,air canada wheelchair assistance,,test
+1024,what items are not allowed in checked luggage,WhatCanIBring,train
+1025,what is not allowed in checked baggage for international flights,WhatCanIBring,train
+1026,what items are not allowed in hand luggage,WhatCanIBring,train
+1027,airport lounge pass offers,,test
+1028,free airport lounge access,,test
+1029,best way from montreal airport to downtown,,train
+1030,747 bus montreal schedule,ExpressBus,train
+1031,how early should i get to the airport for an international flight,,test
+1032,how do i contact air canada lost and found?,ClaimLostItemFlight,train
+1033,airport medical clinic,,train
+1034,can you buy bagels at montreal airport,,train
+1035,can you take food on a plane in your suitcase,WhatCanIBring,train
+1036,can you bring candy on a plane,WhatCanIBring,train
+1037,how much liquid can you take on a plane in checked baggage,WhatCanIBring,test
+1038,can you bring makeup on a plane,WhatCanIBring,train
+1039,how to get free wifi on air canada,,train
+1040,airport atm exchange rate,,test
+1041,air canada on my way travel assistance,,test
+1042,montreal airport map,,train
+1043,if i miss my connecting flight what happens to my luggage,,test
+1044,prepaid sim card canada airport,BuySimCard,train
+1045,can you take an epipen in hand luggage,WhatCanIBring,test
+1046,how to travel with whole milk for baby,SecurityScreeningWithChildren,train
+1047,flying with baby formula canada,SecurityScreeningWithChildren,test
+1048,car parking montreal airport,,train
+1049,how to get a gate pass at the airport,,train
+1050,can you get through airport security without a boarding pass,,train
+1051,car2go montreal parking,,train
+1052,how to travel with oxygen on a plane,WhatCanIBring,train
+1053,air canada connecting flights baggage,,test
+1054,what can i bring into the us from canada,,train
+1055,montreal airport evacuation,,train
+1056,flying with laptop in checked luggage,WhatCanIBring,test
+1057,can you go through a metal detector with a pacemaker,WhatCanIBring,test
+1058,when do you go through customs when you have a connecting flight,,train
+1059,how many months pregnant allowed to travel,,train
+1060,breastfeeding long haul flight,,train
+1061,airport taxi rates,TaxisLimousinesPrices,train
+1062,overbooked flight compensation air canada,,train
+1063,how to avoid customs charges from usa to canada,,test
+1064,buying duty free alcohol at airport,DutyFree,test
+1065,can i buy duty free if i have a connecting flight usa,DutyFree,train
+1066,can you take duty free alcohol on connecting flights,,train
+1067,air canada pet shipping,,train
+1068,air canada pet policy international flights,,train
+1069,wheelchair assistance for parents,,test
+1070,what is not allowed in checked baggage for international flights,WhatCanIBring,test
+1071,how long can i stay in airport after landing,,train
+1072,sleeping in airports,,test
+1073,child restraint device for airplane,,test
+1074,airline approved car seats canada,,train
+1075,what happens if i miss a flight on purpose,,test
+1076,is there a fee for missing a flight,,test
+1077,air canada baggage allowance 2019,,test
+1078,lost luggage reimbursement,LuggageProblem,train
+1079,delayed baggage compensation air canada,,test
+1080,air canada lost baggage chat,LuggageProblem,test
+1081,how old does a child have to be to buy a plane ticket,,test
+1082,how do i pack medication for a flight,WhatCanIBring,train
+1083,rules for taking prescription drugs on airplane,WhatCanIBring,test
+1084,can you take food on a plane in your suitcase,WhatCanIBring,train
+1085,carry on liquids canada,WhatCanIBring,test
+1086,air canada connecting through montreal,,train
+1087,can you bring a dog to the airport to pick someone up,ArePetsAllowed,test
+1088,can you bring edibles on a plane canada,WhatCanIBring,train
+1089,food in checked baggage international flight,WhatCanIBring,train
+1090,can i take makeup on a plane in my purse,WhatCanIBring,test
+1091,can you bring powder makeup on a plane,WhatCanIBring,train
+1092,can you take pepper spray on a plane in checked luggage,WhatCanIBring,test
+1093,montreal airport marriott in-terminal hotel,,train
+1094,can i buy duty free on domestic flights canada,,train
+1095,can you buy duty free without flying,,test
+1096,duty free shopping rules,,train
+1097,wrapping stroller at airport,,train
+1098,what kind of stroller can i take on a plane,,test
+1099,is stroller allowed in international flight,,train
+1100,airport atm fees,,test
+1101,damaged baggage compensation,,test
+1102,airline injury compensation,,train
+1103,in flight injuries on airplanes compensation,,train
+1104,airline injury claims,,train
+1105,flight delay compensation canada,,train
+1106,best airlines for disabled passengers,,test
+1107,flying with wheelchair bound person,,train
+1108,montreal airport pet relief area,ReliefArea,train
+1109,Do airlines charge for strollers?,,train
+1110,How do I pick up a passenger on Uber?,UberPickUp,test
+1111,What not to put in checked baggage?,WhatCanIBring,train
+1112,Which airports have showers?,,test
+1113,What happens if my luggage is lost?,LuggageProblem,train
+1114,Do you get compensation for lost luggage?,,train
+1115,How can I get my lost luggage back?,LuggageProblem,train
+1116,Are airlines responsible for lost luggage?,,train
+1117,How do I claim compensation for lost luggage?,,test
+1118,What happens if my luggage is delayed?,LuggageProblem,train
+1119,Does Air Canada pay for lost baggage?,,train
+1120,How do I find lost luggage at the airport?,LuggageProblem,train
+1121,What do you do if the airport loses your luggage?,LuggageProblem,train
+1122,Can you claim for damaged baggage?,LuggageProblem,train
+1123,Is the airline responsible for damaged luggage?,,train
+1124,How do I report damaged luggage?,LuggageProblem,train
+1125,What happens if an airline breaks your luggage?,LuggageProblem,test
+1126,Do airlines replace broken luggage?,,train
+1127,Do you get compensation for delayed luggage?,,train
+1128,How long does it take to get delayed luggage?,,train
+1129,What happens if my luggage doesn't arrive?,LuggageProblem,test
+1130,Is there free WiFi at the airport?,InternetAccess,test
+1131,Is it safe to use airport WiFi?,,train
+1132,How I can get WiFi connection?,InternetAccess,train
+1133,How do I connect to Airport Free WiFi?,InternetAccess,train
+1134,How do you get WiFi at the airport?,InternetAccess,test
+1135,Is there Internet at the airport?,InternetAccess,test
+1136,How I can get WiFi connection?,InternetAccess,train
+1137,How do I reset airport WiFi?,,train
+1138,Can you sleep in airport lounges?,,test
+1139,Can you sleep overnight in an airport?,,train
+1140,How do I get free airport lounge access?,,train
+1141,How do you sleep in the airport?,,test
+1142,How do you use airport lounges?,,train
+1143,Who can use airport lounges?,,train
+1144,How much does it cost to use an airport lounge?,,test
+1145,What is airport lounge access?,,test
+1146,Does airport have cloak room?,Lockers,test
+1147,Can I leave my luggage in airport?,Lockers,test
+1148,Do they have lockers at airports?,Lockers,train
+1149,Where can I store my luggage at the airport?,Lockers,train
+1150,Do airports have lockers for layovers?,Lockers,train
+1151,Can you leave luggage at airport during layover?,Lockers,train
+1152,How much does it cost to exchange currency at the airport?,,train
+1153,Can you change currency at the airport?,CurrencyExchangeOffice,train
+1154,Does Montreal Airport have currency exchange?,CurrencyExchangeOffice,train
+1155,Where can I exchange currency for free?,CurrencyExchangeOffice,test
+1156,Do airports have ATMs?,Atm,train
+1157,Can you smoke in the Montreal airport?,SmokeAtAirport,test
+1158,How do I connect to Yul WiFi?,InternetAccess,test
+1159,Can you smoke in Canadian airports?,SmokeAtAirport,test
+1160,Is there free WiFi at Trudeau airport?,InternetAccess,test
+1161,Can Uber drop off at Montreal airport?,,train
+1162,Where do I go to pick up someone from the airport?,PickUpRules,train
+1163,Is cell phone lot free?,CellParc,test
+1164,How much is parking at Montreal airport?,,test
+1165,How much is long term parking at Montreal airport?,,test
+1166,How much does parking cost at the airport?,,test
+1167,Can you leave your car at the airport for a week?,ParkingLotAvailability,train
+1168,How much is short term parking at the airport?,,test
+1169,How much does the 747 bus cost?,BusPrice,train
+1170,How do I get from Montreal airport to the train station?,RegularBus,train
+1171,How much is a cab from Montreal airport to downtown?,TaxisLimousinesPrices,test
+1172,Is there a train to Montreal Airport?,DirectionsToViaRail,test
+1173,Where does the 747 bus stop Montreal?,ExpressBus,train
+1174,Does Uber go to Montreal Airport?,UberPickUp,train
+1175,Is Uber cheaper than taxi in Montreal?,,train
+1176,Can Uber pick up at Montreal airport?,UberPickUp,test
+1177,How do I charge my phone at the airport?,,test
+1178,Can you bring pets to the airport?,ArePetsAllowed,test
+1179,Can my cat travel on the plane with me?,,train
+1180,How do you travel with a dog on a plane?,,train
+1181,Can you fly with your pets?,,train
+1182,Where do you pick up your pet at the airport?,,test
+1183,Do you have to declare prescription drugs at the airport?,,train
+1184,Can you take prescriptions on a plane?,WhatCanIBring,test
+1185,Can you take tablets in hand luggage?,WhatCanIBring,train
+1186,How can I travel with prescription drugs internationally?,,train
+1187,Do pills need to be in prescription bottles when flying international?,WhatCanIBring,test
+1188,What items are not allowed in checked luggage?,WhatCanIBring,train
+1189,What is allowed in checked baggage?,WhatCanIBring,train
+1190,Can you put aerosols in your checked luggage?,WhatCanIBring,train
+1191,How do I pack medicine in my checked luggage?,WhatCanIBring,train
+1192,Can I have a phone charger in my hand luggage?,WhatCanIBring,train
+1193,Can I put my laptop in my checked bag?,WhatCanIBring,train
+1194,What Cannot go in checked baggage?,WhatCanIBring,test
+1195,What do you have to take out of your bag at airport security?,WhatCanIBring,test
+1196,What's not allowed on a plane?,WhatCanIBring,test
+1197,Can I pack my laptop in my carry on suitcase?,WhatCanIBring,test
+1198,Can I bring perfume on a plane?,WhatCanIBring,train
+1199,Can I bring snacks on a plane?,WhatCanIBring,train
+1200,How much perfume can you take in checked luggage?,WhatCanIBring,train
+1201,Where do I put my prescriptions when flying?,WhatCanIBring,test
+1202,Do you have to declare prescription drugs at the airport?,,test
+1203,What Can I Pack in My Checked Luggage?,WhatCanIBring,test
+1204,What NOT to Pack in Your Carry-On Bag,WhatCanIBring,train
+1205,Can I Carry Liquids in My Checked Baggage?,WhatCanIBring,test
+1206,Can you buy a SIM card at the airport?,BuySimCard,test
+1207,Can I buy a SIM card at Montreal airport?,BuySimCard,train
+1208,Is there a prayer room in Montreal airport?,PrayerArea,test
+1209,How do I use Nexus kiosk at airport?,,test
+1210,Where do I apply for a Nexus card?,NexusRegistration,train
+1211,Can I use Nexus if I have something to declare?,,train
+1212,Can I use Nexus without my card?,,test
+1213,Can nexus use Global Entry kiosk?,,test
+1214,Is there public transportation from Montreal airport to downtown?,ExpressBus,train
+1215,How much does a taxi cost from Montreal airport to downtown?,TaxisLimousinesPrices,train
+1216,How do I get from Montreal airport to the train station?,,train
+1217,Is there a train to Montreal Airport?,DirectionsToViaRail,test
+1218,How do I get from Montreal airport to the train station?,,train
+1219,How much does it cost to go from Toronto to Montreal by train?,,test
+1220,How far is Montreal Airport from train station?,,test
+1221,Can you uber from Montreal airport?,UberPickUp,train
+1222,Does Montreal Metro go to airport?,,train
+1223,How much does the 747 bus cost?,BusPrice,train
+1224,Does 747 bus take notes?,BusPrice,test
+1225,Do you go through US Customs in Montreal?,ScreeningProceduresToUs,test
+1226,Do I need to take out luggage on a connecting flight?,,train
+1227,Do I need to pick up my luggage on a connecting flight Air Canada?,,train
+1228,Do I need to take out luggage on a connecting flight?,,train
+1229,Do I clear US customs in Montreal?,ScreeningProceduresToUs,test
+1230,International connection procedure at Montreal airport,,train
+1231,Connecting Information Through Montreal Airport,,test
+1232,Do I need a visa if I have a connecting flight in Canada?,TransitVisa,train
+1233,Do I need eTA for connecting flight in Canada?,,test
+1234,How long does Canada transit visa take?,,train
+1235,Do I need a Canadian eTA for transit?,,train
+1236,How do I apply for a transit visa?,,test
+1237,Can I transit through Canada without a visa?,TransitVisa,test
+1238,How long does a Canadian eTA last?,,train
+1239,Do I need ESTA to travel to USA?,Esta,train
+1240,How does ESTA work at airport?,,test
+1241,Do you need an ESTA to travel from Canada to USA?,Esta,train
+1242,Who needs ESTA travel approval?,Esta,test
+1243,Can you park your car at the airport?,ParkingLotAvailability,test
+1244,Can I park my car at the airport for a month?,,train
+1245,How do I find my car in a parking lot?,,train
+1246,Can I leave my car parked at the airport?,ParkingLotAvailability,test
+1247,Can I pick up at drop off?,,train
+1248,Can I wear my baby through airport security?,,train
+1249,Is a diaper bag considered a carry on?,,test
+1250,How do you bring baby formula on a plane?,,train
+1251,Can you bring children's Tylenol on a plane?,WhatCanIBring,train
+1252,Can I take baby wipes on a plane?,WhatCanIBring,train
+1253,How do you take baby milk through airport security?,,train
+1254,Does TSA allow water for baby formula?,SecurityScreeningWithChildren,train
+1255,How much milk can I bring on a plane?,SecurityScreeningWithChildren,test
+1256,Do wet wipes count as liquid on a plane?,,train
+1257,Is mascara considered a liquid?,,train
+1258,What counts as a liquid on a plane?,,train
+1259,What can I not bring on a plane?,WhatCanIBring,train
+1260,How to clear airport security with a pet,ScreeningProceduresWithAnimal,test
+1261,Can I walk my dog through the airport?,ArePetsAllowed,train
+1262,What is required to fly with a cat?,,train
+1263,How do you use automated passport control kiosks in Canada?,CustomKiosks,train
+1264,How do I use my Nexus at land crossing?,,test
+1265,What do you have to declare at Canadian customs?,,test
+1266,What can I not take into Canada?,,test
+1267,Do you have to declare chocolate at customs in Canada?,,train
+1268,What happens if I don't declare items at customs?,,train
+1269,Where can I get Nexus?,NexusRegistration,train
+1270,Where do I apply for a Nexus card?,NexusRegistration,train
+1271,How do I cross border with Nexus?,,test
+1272,How does Nexus work at the border?,,test
+1273,"What do I need to know about travelling to the United States?
+",,train
+1274,Do you go through customs when leaving Canada to us?,ScreeningProceduresToUs,train
+2000,accounting,,train
+2001,airport operations's,,test
+2002,management names at montréal airport,,train
+2003,aeroplan miles,,test
+2004,changing flight class,,train
+2005,did not get my aeroplan miles,,train
+2006,hello - may i speak to an air canada agent on the ground at yul?,,test
+2007,i do not have access to manage my booking and i need to cancel booking,,train
+2008,interjet check in counters,,train
+2009,upgrading ticket,,train
+2010,what has happened to wow airline flights?,,train
+2011,air canada domestic arrival level,,train
+2012,are there pay phones,,train
+2013,cross border currency location inside the airport,,train
+2014,"hi, can you tell me which section are terminal b and c located (sunwing airline)",,train
+2015,is there a may to show how i get from arrivals to departures easily,,train
+2016,looking for prayer room in side airport,PrayerArea,test
+2017,map,,train
+2018,map for us terminal,,train
+2019,maps,,test
+2020,phone booth,,test
+2021,power outlet,,train
+2022,terminal map,,train
+2023,terminale,,train
+2024,where are departures,,test
+2025,where is a pay phone,,test
+2026,where is the air canada office,,test
+2027,where is the greyhound stop,RegionalShuttle,train
+2028,where is the passenger pickup?,PickUpRules,train
+2029,where is the uber pick up located?,UberPickUp,train
+2030,where is the waiting lounge?,,test
+2031,where take shuttle back,,test
+2032,will be in montreal for a long overnight layover. where in the airport is a safe location to sleep?,,train
+2033,am looking for the aircanada baggage counter number at yul.. can you please help,,train
+2034,baggag claim,LuggageProblem,test
+2035,baggage claim,LuggageProblem,train
+2036,baggage payment,,test
+2037,can i bring à desktop on the plane,WhatCanIBring,test
+2038,can you tell me what is the cost to hold luggage in the locker room,Lockers,train
+2039,claim,,test
+2040,delayed bags received,LuggageProblem,train
+2041,find our lughage,LuggageProblem,train
+2042,good day. i have already had a quote for my motorbike shipping form europe to montreal. i would like to know how can i ensure my motorbike to withdraw it the day of arrival. thanks alberto,,test
+2043,i didn't received my luggage,LuggageProblem,train
+2044,i have lost my luggage,LuggageProblem,train
+2045,i need help with my luggage,LuggageProblem,test
+2046,i want to travel ith my bike to mexico how can i do,,train
+2047,i've lost my luggage,LuggageProblem,test
+2048,is there any temporary luggage storage at the airport,Lockers,train
+2049,luggage,,train
+2050,luggage cart,,train
+2051,luggage weight,,train
+2052,pick up luggage,,train
+2053,sizes of carry on,,test
+2054,suitcases,,test
+2055,temporary luggage storage,Lockers,test
+2056,united airlines baggage,,train
+2057,"where to send request for a copy of my property irregularity report for the delayed bag, that i filed at the airport in montreal in 2016 year",,train
+2058,wrong bagage,LuggageProblem,train
+2059,job application,,train
+2060,minors,,train
+2061,traveling with children,,train
+2062,unaccompanied,,train
+2063,munich,,test
+2064,complaints,MakeComplaint,train
+2065,how to lodge a complaint,MakeComplaint,train
+2066,whom do i log a complaint about a unicef rep,MakeComplaint,test
+2067,"after clearing immigration at montreal airport, do i need to clear security before my connecting flight?",,train
+2068,can i check in for my connecting flight,,test
+2069,fly from canadian airport to a connecting canadian airport on to an international destination,,train
+2070,how can i be shuttled to lake my connecting canadian flight,,test
+2071,how can i get assistance to make connecting flight,,train
+2072,how do i make my connecting flight from arrival to departures,,train
+2073,how do i reserve priority passage too make my connecting canadian flight,,train
+2074,how do i stay in the security area to make a connecting canadian flight,,test
+2075,"i have mobility issues, how can i get help making my connecting canadian flight",,train
+2076,i wonder if i woudl have enogh time between flights,,train
+2077,long layover,,train
+2078,question about a connecting flight,,train
+2079,addres,ContactUs,test
+2080,adress,ContactUs,test
+2081,contact number,ContactUs,test
+2082,contact number for customs,,train
+2083,contact us,ContactUs,test
+2084,customes public relations and tips phone number,ContactUs,test
+2085,family member missed connection and no mobile number to contact,,train
+2086,"hi, i'm would like to contact, by email, katia (security department i think). i wrote down an incomplete email (acsta.gc.ca) could you please give me the whole address?",,train
+2087,how to get to get to airport,,test
+2088,"i need a phone number please, i have family members stuck in montreal airport.",,train
+2089,i want a customer service number,ContactUs,train
+2090,i would like to know if there is a way i can contact a specific gate withing the airport,,test
+2091,is there a number i can call re lost and found,,train
+2092,looking for phone number of airport security,,train
+2093,montreal air custom important numberair customs phone number in montreal,,train
+2094,montreal customs phone no,,train
+2095,not able to reach someone,,test
+2096,page someone,,test
+2097,parking contact,ParkingAssistance,test
+2098,speak to someone,,test
+2099,valet parking telephone number,ParkingAssistance,test
+2100,what is the airport code,,train
+2101,who do i contact to report a lost item at montreal airport,ClaimLostItemAirport,test
+2102,your admin email address please,,train
+2103,do i need a transit visa,TransitVisa,test
+2104,do i need a transit visa if i have a canadian pr,TransitVisa,train
+2105,do i need my passport,,train
+2106,do i need my passport to buy a ticket,,test
+2107,for passport stamping,,train
+2108,hi. i am wondering if i could go to the airport to get a tn visa for the us. thank you,,train
+2109,how to get visitor permit,,test
+2110,how to get visitor permit after airport,,test
+2111,i am transiting though montreal international airport from france going to usa. do i need a visa? my transit time is 4 hours and i am not changing terminals. i am a citizen of albania and hold only albanian passport and citizenship,TransitVisa,test
+2112,immigration,,train
+2113,mexic visa,,train
+2114,my passport has not been stamped when entreing canada yesterday,,test
+2115,paspport,,train
+2116,passport validity,,train
+2117,student visa,,train
+2118,waiting time at customs,,test
+2119,finding someone,,train
+2120,i am searching for my sister's family,,train
+2121,trying to locate passenger,,train
+2122,arrival,,train
+2123,arrivals,,test
+2124,cancelled flight,,train
+2125,delayed,,test
+2126,delayed flight,,train
+2127,departure,,test
+2128,"flight ac8795 was cancelled, what we havw to do?",,train
+2129,flight number,,test
+2130,flights,,train
+2131,i need a gate number,,train
+2132,i need info about arrival flight,,train
+2133,jfk to yul,,test
+2134,missed flight,,train
+2135,missed transit flight due to delay,,test
+2136,please advise the following information for private jet,,test
+2137,porter airline arrivals,,test
+2138,london ba94,,train
+2139,at what time the airport is opening?,,test
+2140,customs hours,,train
+2141,hours of operation,,test
+2142,is cbsa open today?,,train
+2143,is the longer open on saturday,,train
+2144,opening hours lost & found,,train
+2145,what are your hours,,train
+2146,what earliest morning time the us flight security open for flight customer? we have 8:00am flight on 19th may 2019!,,train
+2147,what time does check in and security screening open at,,train
+2148,what time does security and check in open?,,train
+2149,what time does security open,,test
+2150,what time does the air canada check in open?,,train
+2151,what time does the aircanada counters open tomorrow?,,train
+2152,what time does the airport open,,train
+2153,what time does the us customs close,,train
+2154,what time the are open,,test
+2155,a client forgot his cel phone at the palne fligth #fi805 seat 22d.,ClaimLostItemFlight,train
+2156,i am looking for my lost iphone. i sent an email last night and called this morning. has an iphone xr with a flower case been turned in?,ClaimLostItemAirport,train
+2157,i forgot my cpap as well as my toiletries bag at the security scanny tiday june 21 at +/- 4:20 pm. can i retreive it ?,ClaimLostItemAirport,train
+2158,i left a grey jacket in the waiting area for gate a1 before leavinhg on flight 401 2019 04 14. if you could locate this and hold gor me please send email to dborduas48 @gmail.com i will be returning to montreal early hours april 22,ClaimLostItemAirport,test
+2159,"i lost my glasses at the airport, where can i find them?",ClaimLostItemAirport,train
+2160,i lost my id at the airport,ClaimLostItemAirport,train
+2161,i lost my pr card,,train
+2162,i've lost my wallet,,test
+2163,left a phone with customs,ClaimLostItemAirport,train
+2164,looking for my passport,,train
+2165,lost,,test
+2166,lost a logage,LuggageProblem,test
+2167,lost and found,,test
+2168,lost and found contract,,train
+2169,lost found,,train
+2170,lost lagage,LuggageProblem,train
+2171,my dad lost his phone,,train
+2172,"my father lost his wallet at the airport, is there surveillance footage we can view?",,test
+2173,not sure if i lost or misplaced my passport,,train
+2174,security lost,,test
+2175,how to reserve vip lounge,,test
+2176,can i cancle my parking booking?,CancelParkingBooking,train
+2177,cell park rules,CellParc,train
+2178,claim for extra parking charges,,train
+2179,do i have to stay in my car at cellparc?,,train
+2180,econoparc 9,,train
+2181,height restrictions,,test
+2182,hello. i have been charged twice for parking at the airport at the exit. can i get a refund?,,train
+2183,hi i just booked park and fly and i didn't get a confirmation page or number,,train
+2184,how can i obtain an electronic copy of a parking receipt,,train
+2185,how can i obtain an electronic copy of my parking receipt?,,train
+2186,how do i get aeroplan points for parking in multi level lot,,train
+2187,i am unable to reserve a parking for the next 7 days .,,train
+2188,i booked online and i have code to exist on 1 am on july 18 but now i'm arriving july 19 at 1 am . how do i get out ???,ParkingExitLater,test
+2189,i did not get a refund on my parking even though it said it was processed who do i call?,ParkingAssistance,train
+2190,"i have tried to reserve parking, and i have not received a confirmation email",,train
+2191,i just tried to reserve parking and not sure if it went through?,,test
+2192,i never received a confirmation number for my reserved parking space. the amount was billed on my husband's credit card.,,train
+2193,i used the parking in march and was issued a receipt online. i am trying to make a claim through my credit card and they asking for a pdf file for the receipt. is there any way of obtining this.,,train
+2194,i want to change my entry time for my parking reservation,AmendParkingBooking,test
+2195,i've booked my parking and i never got any confirmation,,test
+2196,make a claim for extra parking charges,,train
+2197,once i arrive at the aiport from the hwy where do i go to park the car for the arrivals,CellParc,test
+2198,park and,,train
+2199,parking for more than 1 day,,train
+2200,parking rates?,,train
+2201,parking scanning,,train
+2202,short term,,test
+2203,what aare the p5 posted rates,,train
+2204,what is link or e-mail to reserve online parking at multi level parking at pet,ReserveParkingOnline,train
+2205,when parking at cell parc can i go in and get my pasenger or do i have to stay with car,,train
+2206,dog,,train
+2207,i am looking for information about animals being transported,,train
+2208,pet shipping,,train
+2209,how early arrive,,test
+2210,how early can i check a bag?,,train
+2211,how early can i check in,,test
+2212,how early can you check a bag,,test
+2213,how early must i arrive,,train
+2214,how early should i arrive for international flights,,train
+2215,how early to arrive,,train
+2216,how early to arrive for a flight,,test
+2217,"i have a long layover in montreal. i am getting a hotel for the night. my flight on air canada leaves at 8:40 am on tuesday, sept. 3. i have a current us passport. when should i arrive at the airpo",,train
+2218,"is it okay to come later than the entrance time i booked? if my reservation starts at 4:00, is it okay to come at 5:00 for example?",,train
+2219,what time should arrive at airport,,train
+2220,what type of money is needed at the airport,,train
+2221,when should i arrive at airport,,test
+2222,when should i arrive before my flight,,test
+2223,when to arrive,,train
+2224,lunch,,train
+2225,restaurant,,train
+2226,restaurants,,test
+2227,bapexam,,test
+2228,how can i contact someone in security screening?,,test
+2229,"i understand that i can have liquids and gels in a 1l bag and my medication in another bag, am i right?",WhatCanIBring,test
+2230,i would like to contact somenone from environment or safety,,train
+2231,is there a 24 hr security check in,,test
+2232,unite canine,CanineUnit,train
+2233,do you have an atm machine at check in point,Atm,test
+2234,how do i access a wheel chair request from taxis to ac checkin this friday at noon?,,test
+2235,is there a airport hotel,,train
+2236,is there a charge for wheel chair assistance at your airports,,train
+2237,is there hotel attached to the airport?,,test
+2238,my parents are in montreal and has to come to edmonton. they dont know english and can you please help them to catch that flight?,Ambassadors,train
+2239,port service,,train
+2240,service,,train
+2241,storage,Lockers,train
+2242,air pods,,train
+2243,duty free,DutyFree,test
+2244,whisky crown royal,,train
+2245,why do flights to jamaica not have access to duty free,,train
+2246,cigarettes,,train
+2247,marijuana smoking,ConsumeCannabisAtAirport,train
+2248,where can i have a cigarette.,SmokeAtAirport,test
+2249,tax refund,,train
+2250,taxes,,train
+2251,bus,,test
+2252,how far to walk from the bus top to the airport,,test
+2253,i have a school group that i will be dropping off to catch a flight this july. i will be driving a school bus and want to know ahead of time if i drop them off in the departure lanes the same as cars or do i use the bus lane? thanks.,,train
+2254,looking for information as a bus driver picking up a group.,,train
+2255,taxi fare question,TaxisLimousinesPrices,train
+2256,tranportation to city center,,test
+2257,where do i find the greyhound bus stop for ottawa,RegionalShuttle,test
+2258,internet,InternetAccess,train
+2259,wifi on my samsung,InternetAccess,test
+2260,ac system,,test
+2261,bikes,,test
+2262,call,,test
+2263,can i convert currency in the airport,CurrencyExchangeOffice,test
+2264,can i mail a letter,,train
+2265,can i travel with birth certificate and photo id,,train
+2266,can not sign in,,test
+2267,cancelled,,train
+2268,closed,,test
+2269,copper wire,,test
+2270,drone,FlyDrone,test
+2271,ecscort form,,train
+2272,england,,train
+2273,environment,,train
+2274,eta,,train
+2275,fast track,,test
+2276,feedback,MakeComplaint,train
+2277,help,,train
+2278,how much money i can take with me,,train
+2279,how much money out,,test
+2280,how to book for appointment to make a working card,,train
+2281,how to cancel an arriving flight,,test
+2282,how to unsubscribe,,test
+2283,i phone 4,,train
+2284,i want some info.,,test
+2285,im getting te award and speaking but i live in charleton sc,,test
+2286,jacket,,train
+2287,looking for tenders awarded,,test
+2288,money,,train
+2289,money on me,,train
+2290,money on me?,,train
+2291,national,,test
+2292,need to cancel the reservation,,train
+2293,night shift staff,,test
+2294,overnight,,test
+2295,recharge,,train
+2296,suite t1470,,test
+2297,take money out of montreal,,test
+2298,the price of sim card ?,,test
+2299,ticket,,train
+2300,translation,,test
+2301,what if i make a mistake putting in my flight,,train
+2302,who can check the cameras,,train
